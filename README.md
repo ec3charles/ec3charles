@@ -1,9 +1,5 @@
 <h1>Hi, I'm Charles! <a href="https://www.linkedin.com/in/charlesebrowniii/">Cloud Support Engineer</a>
 
-   - 🔭 I’m currently working on building a static cloud portfolio website using HTML & CSS, hosted on AWS S3 with CloudFront, and deployed via a CloudFormation template.
-
- - 🎯 Goal: Efficiently deliver static content using AWS's global infrastructure while mastering a well-architected framework focusing on reliability, security, and cost-effectiveness.
-
 
 <h2>👨‍💻 Projects:</h2>
 AWS Cloud Resume Challenge "In Progress"
